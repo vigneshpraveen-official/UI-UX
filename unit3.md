@@ -190,8 +190,6 @@ Understanding the difference between conscious and subconscious experiences can 
 * **Designing for subconscious experience**: UX designers can design experiences that tap into our subconscious, such as using colors and patterns that evoke emotions or creating intuitive interfaces that feel natural and automatic.
 * **Designing for conscious experience**: UX designers can also design experiences that engage our conscious mind, such as creating interactive tutorials or providing clear and concise instructions.
 
-If you'd like to know more about the implications of conscious and subconscious experience for UX design, I'd be happy to elaborate!
----------------------------------------------------------------------
 
 
 
